@@ -1,0 +1,14 @@
+{
+  "name": "challenge-one-front-end---alura-geek",
+  "version": "1.0.0",
+  "description": "alura-geek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel Hdez",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
